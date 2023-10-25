@@ -6,7 +6,7 @@ class test5{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number");
         number = sc.nextInt();
-          System.out.print(a + ", " + b + " ");
+          System.out.print(a + " " + b );
         while(number >= i){
          c = a + b;
          a = b;
